@@ -1,0 +1,134 @@
+
+<table border="1">
+	<thead style="background-color: grey;">
+		<tr>
+			<th rowspan="2" style="text-align: center;">No</th>
+			<th rowspan="2" style="text-align: center;">Mitra</th>
+			<th colspan="2" style="text-align: center;">Nomor MOU</th>
+			<th colspan="2" style="text-align: center;">Nomor MOA</th>
+			<th colspan="2" style="text-align: center;">Tanggal MOU/MOA</th>
+			<th rowspan="2" style="text-align: center;">Jangka Waktu MOU/MOA</th>
+			<th rowspan="2" style="text-align: center;">Bidang Kerjasama</th>
+			<th rowspan="2" style="text-align: center;">Sub Bidang Kerjasama</th>
+			<th rowspan="2" style="text-align: center;">Tindak Lanjut MOU/MOA</th>
+			<th rowspan="2" style="text-align: center;">Biaya</th>
+			<th colspan="2" style="text-align: center;">Contact Person</th>
+			<th colspan="2" style="text-align: center;">Alamat Mitra</th>
+		</tr>
+		<tr>
+			<th style="text-align: center;">Filkom</th>
+			<th style="text-align: center;">Mitra</th>
+			<th style="text-align: center;">Filkom</th>
+			<th style="text-align: center;">Mitra</th>
+			<th style="text-align: center;">Tanggal Mulai</th>
+			<th style="text-align: center;">Tanggal Selesai</th>
+			<th style="text-align: center;">Filkom</th>
+			<th style="text-align: center;">Mitra</th>
+			<th style="text-align: center;">MOU</th>
+			<th style="text-align: center;">MOA</th>
+		</tr>
+	</thead>
+	<tbody>
+					<tr>
+				<td>1</td>
+				<td>Telkomsel</td>
+									<td></td>
+					<td></td>
+					<td>4444</td>
+					<td>12121212121</td>
+								<td>2020-12-01</td>
+				<td>2020-12-16</td>
+				<td>15 Hari</td>
+				<td>Akademik</td>
+				<td>Testing</td>
+				<td>adadad</td>
+				<td>12</td>
+				<td>12</td>
+				<td>Abul (081212121212121)</td>
+									<td></td>
+					<td>Bandung</td>
+							</tr>
+					<tr>
+				<td>2</td>
+				<td>test</td>
+									<td></td>
+					<td></td>
+					<td>7777</td>
+					<td>12121212121</td>
+								<td>2020-12-01</td>
+				<td>2020-12-01</td>
+				<td>0 Hari</td>
+				<td>Mahasiswa</td>
+				<td></td>
+				<td>adadad</td>
+				<td>12</td>
+				<td>081</td>
+				<td>test (01214712)</td>
+									<td></td>
+					<td>test</td>
+							</tr>
+					<tr>
+				<td>3</td>
+				<td>Gojek</td>
+									<td></td>
+					<td></td>
+					<td>8888</td>
+					<td>8888</td>
+								<td>2020-12-09</td>
+				<td>2020-12-18</td>
+				<td>9 Hari</td>
+				<td>Mahasiswa</td>
+				<td></td>
+				<td></td>
+				<td>9</td>
+				<td>9</td>
+				<td>Kevin (0829382281123)</td>
+									<td></td>
+					<td>Jl. Jalan Enak Sekali</td>
+							</tr>
+					<tr>
+				<td>4</td>
+				<td>badut</td>
+									<td></td>
+					<td></td>
+					<td>131313</td>
+					<td>1313313</td>
+								<td>2020-12-09</td>
+				<td>2020-12-18</td>
+				<td>9 Hari</td>
+				<td>Akademik</td>
+				<td>Testing</td>
+				<td></td>
+				<td>9</td>
+				<td>081</td>
+				<td>Abul (081212121212121)</td>
+									<td></td>
+					<td>jkt</td>
+							</tr>
+					<tr>
+				<td>5</td>
+				<td>blok</td>
+									<td></td>
+					<td></td>
+					<td>131313</td>
+					<td>1515</td>
+								<td>2020-12-11</td>
+				<td>2020-12-26</td>
+				<td>15 Hari</td>
+				<td>Akademik</td>
+				<td>Testing</td>
+				<td></td>
+				<td>12</td>
+				<td>081</td>
+				<td>Abul (081212121212121)</td>
+									<td></td>
+					<td>jkt</td>
+							</tr>
+			</tbody>
+</table>
+
+
+
+
+
+
